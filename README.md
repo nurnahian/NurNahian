@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**nurnahian/NurNahian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nurnahian/NurNahian** is a ✨ _special_ ✨ repository because its appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
