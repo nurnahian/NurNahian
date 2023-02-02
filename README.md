@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://nurnahian.io)
 <h1 align="center">👀I'm Nur Nahian Ringgit</h1>
-<h3 align="center">A passionate with programing</h3>
+<h3 align="center">A passionate programmer</h3>
 Hi there 👋
 
 
@@ -12,17 +12,19 @@ Hi there 👋
 </p>
 Here are some ideas to get you started:
 
-
 - 🔭 I’m currently working on **Django Project**
 
 - 🌱 I’m currently learning **React JS, Django**
 
 - 👯 I’m looking to collaborate on **Git**
 
+- 👨‍💻 All of my projects are available at [https://github.com/nurnahian](https://github.com/nurnahian)
+
 - 💬 Ask me about **C/C++,Python**
 
-- ⚡ Fun fact **Coding Jockos**
+- 📫 How to reach me **nurnahian007@gmail.com**
 
+- ⚡ Fun fact **Coding Jockos**
 
 ## Languages
 
