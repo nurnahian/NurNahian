@@ -1,20 +1,27 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://nurnahian.io)
-<h1 align="center">👋!</h1>
-### Hi there 👋
+<h1 align="center">👀I'm Nur Nahian Ringgit</h1>
+<h3 align="center">A passionate with programing</h3>
+Hi there 👋
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&pause=1000&width=435&lines=Nur+Nahian+Ringgit;Let's+do+something+new)](https://git.io/typing-svg)
-
+<img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/61ebe5f773be1acd620f8208/61fa3997c8a7f531e18d4e67_man-coding-on-laptop.gif">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nur-nahian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nur-nahian" height="30" width="40" /></a>
+</p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on **Django Project**
+
+- 🌱 I’m currently learning **React JS, Django**
+
+- 👯 I’m looking to collaborate on **Git**
+
+- 💬 Ask me about **C/C++,Python**
+
+- ⚡ Fun fact **Coding Jockos**
 
 
 ## Languages
@@ -41,3 +48,13 @@ Here are some ideas to get you started:
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
 ![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurnahian&show_icons=true&locale=en&theme=tokyonight" alt="nurnahian" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurnahian&&theme=tokyonight" alt="nurnahian" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurnahian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nurnahian" /></p>
+
+
+
