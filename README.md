@@ -49,12 +49,11 @@ Here are some ideas to get you started:
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
 ![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurnahian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nurnahian" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurnahian&show_icons=true&locale=en&theme=tokyonight" alt="nurnahian" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurnahian&&theme=tokyonight" alt="nurnahian" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurnahian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nurnahian" /></p>
 
 
 
