@@ -1,6 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://nurnahian.io)
 <h1 align="center">👀I'm Nur Nahian Ringgit</h1>
 <h3 align="center">A passionate programmer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurnahian&label=Profile%20views&color=0e75b6&style=flat" alt="nurnahian" /> </p>
 Hi there 👋
 
 
