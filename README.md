@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-Gitlab-000000?style=flat&logo=gitlab) <br />
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
