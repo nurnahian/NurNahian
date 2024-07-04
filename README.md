@@ -13,15 +13,15 @@ Hi there 👋
 </p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Django Project**
+- 🔭 I’m currently working on ** C#/DOT NET Project**
 
-- 🌱 I’m currently learning **React JS, Django**
+- 🌱 I’m currently learning **React JS**
 
 - 👯 I’m looking to collaborate on **Git**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nurnahian](https://github.com/nurnahian)
 
-- 💬 Ask me about **C/C++,Python**
+- 💬 Ask me about **C/C++,C#**
 
 - 📫 How to reach me **nurnahian007@gmail.com**
 
